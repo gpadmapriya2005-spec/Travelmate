@@ -1,0 +1,5 @@
+expense_id,trip_id,category,amount,description
+201,10,Ticket,300.0,Travelling
+202,11,Food,1200.0,Food
+1,1,Hotel,500.0,Lunch
+1000.50,16,Temple,1200.0,Temple
